@@ -1,0 +1,56 @@
+.mid {
+    display: block;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: rgb(243, 242, 240);
+    width: 1350px;
+    margin: 0 auto 2px;
+}
+
+p {
+    text-align: center;
+}
+
+#id {
+    margin-top: -15px;
+}
+
+.c1 {
+    width: 500px;
+    height: 75px;
+    background-color: #7EE5DA;
+    float: left;
+    margin-left: 85px;
+    margin-right: 1px;
+    line-height: 100%;
+}
+
+.c2 {
+    width: 350px;
+    height: 75px;
+    background-color: #70CCC2;
+    float: left;
+    margin: auto;
+    margin-left: 1px;
+    margin-right: 1px;
+    text-align: center;
+    font-size: 14px;
+    padding: auto 0;
+}
+
+.c3 {
+    width: 497px;
+    height: 75px;
+    background-color: #62B3AA;
+    margin-left: 1px;
+    float: left;
+    padding: auto;
+    font-size: 14px;
+}
+
+.sec {
+    margin-left: 575px;
+    clear: right;
+}
